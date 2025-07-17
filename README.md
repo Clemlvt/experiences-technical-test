@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Experiences Technical Test
 
 ## 🛠️ Technologies utilisées
 
@@ -27,7 +27,7 @@ npm install
 
 ## Scripts disponibles
 
-### `npm start`
+### `npm run dev`
 
 Lance l'application en mode développement.\
 Ouvre [http://localhost:3000](http://localhost:3000) dans le navigateur.
@@ -44,14 +44,6 @@ Voir la section sur [l'exécution des tests](https://facebook.github.io/create-r
 
 Construit l'application pour la production dans le dossier `build`.\
 Optimise le build pour la meilleure performance.
-
-### `npm run eject`
-
-**Attention : cette opération est irréversible !**
-
-Si vous souhaitez personnaliser la configuration, vous pouvez utiliser cette commande.
-
----
 
 ## En savoir plus
 
